@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Santoso</h1>
-<h3 align="center">IT Staff | Junior Web Programmer | Database Administrator</h3>
+<h3 align="center">IT Staff | Junior Web Programmer </h3>
 <img align="right" alt="Coding" width="400"
   src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg">
 
